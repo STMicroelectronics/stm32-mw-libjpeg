@@ -17,6 +17,10 @@
   ******************************************************************************
   @endverbatim
 
+### 16-October-2026 ###
+========================
+   + Add SW_Security_Level.md file
+
 ### 29-March-2019 ###
 ========================
    + include/jdata_conf_template.h, source/jdata_conf_template.c: update license to the BSD-3-Clause

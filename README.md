@@ -1,6 +1,6 @@
 # Middleware LIBJPEG MCU Component
 
-![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32-mw-libjpeg.svg?color=brightgreen)
+![tag](https://img.shields.io/badge/tag-v8d_20261016-brightgreen.svg)
 
 ## Overview
 
@@ -28,4 +28,3 @@ Details about the content of this release are available in the release note [her
 ## Troubleshooting
 
 Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) guide.
-
